@@ -1,2 +1,4 @@
-package com.example.classactivity.serviceImpl;public interface UserImpl {
+package com.example.classactivity.serviceImpl;
+
+public interface UserImpl {
 }
